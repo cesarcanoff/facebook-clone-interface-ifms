@@ -23,34 +23,34 @@
   <h5>Website: https://nodejs.org</h5>
 
   Atualização dos pacotes para a versão estável do NodeJs.
-  ~~~
+  ```shell
   $ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-  ~~~
+  ```
   
   Instalação dos pacotes NojeJS e NPM
-  ~~~
+  ```shell
   $ sudo apt install nodejs
-  ~~~
+  ```
   
   Verifica a versão do NodeJS
-  ~~~
+  ```shell
   $ node --version
-  ~~~
+  ```
   
   Verifica a versão do NPM
-  ~~~
+  ```shell
   $ npm --version
-  ~~~
+  ```
   
   Instalação de pacotes necessários:
-  ~~~
+  ```shell
   $ sudo apt install build-essential
-  ~~~
+  ```
   
   Instalação dos pacotes para utilização do Expo [GLOBAL]:
-  ~~~
+  ```shell
   $ sudo npm install expo-cli --global
-  ~~~
+  ```
   
 </details>
 
@@ -58,19 +58,19 @@
   <br />
   
   Acessar sua pasta de workspace onde será criada a pasta com a aplicação, e executar o comando para criação da aplicação:
-  ~~~
+  ```shell
   $ expo init rn-first-app
-  ~~~
+  ```
   
   Entrar na pasta e inicializar o NPM:
-  ~~~
+  ```shell
   $ cd rn-first-app/ && npm start
-  ~~~
+  ```
   
   Para executar o programa após a instalação e inicialização, basta executar:
-  ~~~
+  ```shell
   $ expo start
-  ~~~
+  ```
 </details>
 
 <details><summary>Developed Interface</summary>
