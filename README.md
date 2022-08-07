@@ -75,9 +75,9 @@
 
 <details><summary>Developed Interface</summary>
 <div align='center'>
-  <a><img width="250" src="https://i.imgur.com/ioxAzg3.png" /></a>
-  <a><img width="250" src="https://i.imgur.com/pluqOft.png" /></a>
-  <a><img width="250" src="https://i.imgur.com/52vAEi7.png" /></a>
+  <a><img width="250" src="screenshots/main-screen.png" /></a>
+  <a><img width="250" src="screenshots/chat-screen.png" /></a>
+  <a><img width="250" src="screenshots/menu-screen.png" /></a>
 </div>
 </details>
 
